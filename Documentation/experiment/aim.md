@@ -1,0 +1,1 @@
+To demonstrate the change in P-v graph of Diesel Cycle and the piston movements of a cylinder working on Diesel cycle, as the pressure and volume variables change, as well as calculate and display the ratios and efficiency of the Diesel cycle. 
